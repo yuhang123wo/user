@@ -12,7 +12,7 @@
 	<build>
 		<finalName>user-config</finalName>
 		<resources>
-			<!-- 指定下所有文件及文件夹为资源文件 -->
+			<!-- 指定下所有xxx文件及文件夹为资源文件 -->
 			<resource>
 				<directory>src/main/resources</directory>
 				<targetPath>${project.build.directory}/classes</targetPath>
